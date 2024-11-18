@@ -81,7 +81,7 @@ Open the Power BI file (ParisOlympic2024.pbix) in Microsoft Power BI Desktop.
 Explore the interactive dashboard through the navigation buttons or tabs.
 
 
-Screenshots
+# ***Screenshots***
 (Include screenshots of each report page: Home Page, Overview, Athletes, Country, and Details.)
 
 ![Home](https://github.com/user-attachments/assets/e9577737-e756-4b23-8ec6-8524b7b27256)
