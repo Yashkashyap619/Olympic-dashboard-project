@@ -100,28 +100,25 @@ Explore the interactive dashboard through the navigation buttons or tabs.
 
 (Include screenshots of each report page: Home Page, Overview, Athletes, Country, and Details.)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/e9577737-e756-4b23-8ec6-8524b7b27256" alt="Home Page" width="300">
-    <p>Home Page</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/92c40632-be83-43d6-8ed5-8f9b1a3bd06a" alt="Overview" width="300">
-    <p>Overview</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/5a6c686f-e84a-47da-a371-2c6c44e1f451" alt="Athlete Reports" width="300">
-    <p>Athlete Reports</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/e7ebee70-3c48-4adc-8e80-52eb00193a09" alt="Country Reports" width="300">
-    <p>Country Reports</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/a9766bce-e182-414f-af29-9b1570029c90" alt="Details Reports" width="300">
-    <p>Details Reports</p>
-  </div>
-</div>
+# Screenshots
+
+(Include screenshots of each report page: Home Page, Overview, Athletes, Country, and Details.)
+
+### Home Page and Overview
+| Home Page | Overview |
+|-----------|----------|
+| ![Home Page](https://github.com/user-attachments/assets/e9577737-e756-4b23-8ec6-8524b7b27256) | ![Overview](https://github.com/user-attachments/assets/92c40632-be83-43d6-8ed5-8f9b1a3bd06a) |
+
+### Athlete Reports and Country Reports
+| Athlete Reports | Country Reports |
+|------------------|-----------------|
+| ![Athlete Reports](https://github.com/user-attachments/assets/5a6c686f-e84a-47da-a371-2c6c44e1f451) | ![Country Reports](https://github.com/user-attachments/assets/e7ebee70-3c48-4adc-8e80-52eb00193a09) |
+
+### Details Reports
+| Details Reports |
+|-----------------|
+| ![Details Reports](https://github.com/user-attachments/assets/a9766bce-e182-414f-af29-9b1570029c90) |
+
 
 
 
