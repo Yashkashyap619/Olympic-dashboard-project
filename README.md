@@ -1,6 +1,6 @@
 # ***Paris Olympic 2024*** 
 
-# Power BI Dashboard
+**Power BI Dashboard**
 This repository contains a Power BI dashboard project for the Paris Olympic 2024, created to analyze and visualize key data related to the event. The project includes interactive reports with insights on athletes, medals, countries, and event details, making it a comprehensive resource for exploring the Paris Olympic data.
 
 
