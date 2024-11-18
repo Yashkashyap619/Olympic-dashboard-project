@@ -88,19 +88,24 @@ Explore the interactive dashboard through the navigation buttons or tabs.
 
 (Include screenshots of each report page: Home Page, Overview, Athletes, Country, and Details.)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e9577737-e756-4b23-8ec6-8524b7b27256" alt="Home Page" width="45%">
-  <img src="https://github.com/user-attachments/assets/92c40632-be83-43d6-8ed5-8f9b1a3bd06a" alt="Overview" width="45%">
-</p>
+# Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5a6c686f-e84a-47da-a371-2c6c44e1f451" alt="Athlete Reports" width="45%">
-  <img src="https://github.com/user-attachments/assets/e7ebee70-3c48-4adc-8e80-52eb00193a09" alt="Country Reports" width="45%">
-</p>
+(Include screenshots of each report page: Home Page, Overview, Athletes, Country, and Details.)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a9766bce-e182-414f-af29-9b1570029c90" alt="Details Reports" width="45%">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e9577737-e756-4b23-8ec6-8524b7b27256" alt="Home Page" width="400"><br>Home Page</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/92c40632-be83-43d6-8ed5-8f9b1a3bd06a" alt="Overview" width="400"><br>Overview</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/5a6c686f-e84a-47da-a371-2c6c44e1f451" alt="Athlete Reports" width="400"><br>Athlete Reports</td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e7ebee70-3c48-4adc-8e80-52eb00193a09" alt="Country Reports" width="400"><br>Country Reports</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="https://github.com/user-attachments/assets/a9766bce-e182-414f-af29-9b1570029c90" alt="Details Reports" width="400"><br>Details Reports</td>
+  </tr>
+</table>
+
 
 
 # ***Acknowledgments***
