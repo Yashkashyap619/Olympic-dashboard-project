@@ -82,13 +82,13 @@ Explore the interactive dashboard through the navigation buttons or tabs.
 
 
 # ***How to Use***
--Clone this repository:
+Clone this repository:
 
--Copy code
+- Copy code
 git clone https://github.com/yourusername/paris-olympic-2024.git
 -Open the Power BI file (ParisOlympic2024.pbix) in Microsoft Power BI Desktop.
 
--Explore the interactive dashboard through the navigation buttons or tabs.
+- Explore the interactive dashboard through the navigation buttons or tabs.
 
 
 # ***Screenshots***
