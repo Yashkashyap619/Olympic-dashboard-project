@@ -85,19 +85,19 @@ Explore the interactive dashboard through the navigation buttons or tabs.
 (Include screenshots of each report page: Home Page, Overview, Athletes, Country, and Details.)
 
 ### Home Page
-![Home](https://github.com/user-attachments/assets/1d3225d4-b259-49fa-9b82-781341abf3cb)
+<img src="https://github.com/user-attachments/assets/1d3225d4-b259-49fa-9b82-781341abf3cb" alt="Home" width="500"/>
 
 ### Overview Page
-![Overview](https://github.com/user-attachments/assets/8c413db7-5b27-4fc8-8ae3-adf03f8e1497)
+<img src="https://github.com/user-attachments/assets/8c413db7-5b27-4fc8-8ae3-adf03f8e1497" alt="Overview" width="500"/>
 
 ### Athlete Page
-![Athlete reports page](https://github.com/user-attachments/assets/a0c0caf7-a2d1-40ec-9aa0-300d3f0533b7)
+<img src="https://github.com/user-attachments/assets/a0c0caf7-a2d1-40ec-9aa0-300d3f0533b7" alt="Athlete reports page" width="500"/>
 
 ### Country Page
-![Country report page](https://github.com/user-attachments/assets/84ebedd7-9e00-421d-bddc-d11fd132751d)
+<img src="https://github.com/user-attachments/assets/84ebedd7-9e00-421d-bddc-d11fd132751d" alt="Country report page" width="500"/>
 
 ### Details Reports
-![Details report page](https://github.com/user-attachments/assets/8597e12e-5a82-4899-a080-735aa6cd72c5)
+<img src="https://github.com/user-attachments/assets/8597e12e-5a82-4899-a080-735aa6cd72c5" alt="Details report page" width="500"/>
 
 
 # ***Acknowledgments***
