@@ -1,9 +1,10 @@
 # ***Paris Olympic 2024*** 
-Power BI Dashboard
+
+# Power BI Dashboard
 This repository contains a Power BI dashboard project for the Paris Olympic 2024, created to analyze and visualize key data related to the event. The project includes interactive reports with insights on athletes, medals, countries, and event details, making it a comprehensive resource for exploring the Paris Olympic data.
 
 
-***Project Overview***
+# ***Project Overview***
 The Paris Olympic 2024 Power BI Project is designed to provide insights into various aspects of the Olympic Games.
 
 Explore athlete and country performances.
@@ -13,7 +14,7 @@ Navigate the reports seamlessly with an interactive home page.
 This project is perfect for sports analysts, enthusiasts, and researchers who want an engaging way to understand the Olympics data.
 
 
-***Data Source***
+# ***Data Source***
 The dataset was sourced from Kaggle.
 Using Python, the data was downloaded and extracted into CSV format for analysis. Key datasets include:
 
@@ -23,7 +24,7 @@ Country Information
 Event Details
 
 
-***Features and Reports***
+# ***Features and Reports***
 The dashboard consists of five interactive pages:
 
 1. Home Page
@@ -80,7 +81,7 @@ Open the Power BI file (ParisOlympic2024.pbix) in Microsoft Power BI Desktop.
 Explore the interactive dashboard through the navigation buttons or tabs.
 
 
-***Acknowledgments***
+# ***Acknowledgments***
 Data Source: Kaggle
 Tools Used:
   Python for data extraction and processing.
