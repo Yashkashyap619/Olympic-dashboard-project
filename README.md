@@ -84,8 +84,12 @@ Explore the interactive dashboard through the navigation buttons or tabs.
 # ***Screenshots***
 (Include screenshots of each report page: Home Page, Overview, Athletes, Country, and Details.)
 
+# Screenshots
+
+(Include screenshots of each report page: Home Page, Overview, Athletes, Country, and Details.)
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9577737-e756-4b23-8ec6-8524b7b27256" alt="Home" width="45%">
+  <img src="https://github.com/user-attachments/assets/e9577737-e756-4b23-8ec6-8524b7b27256" alt="Home Page" width="45%">
   <img src="https://github.com/user-attachments/assets/92c40632-be83-43d6-8ed5-8f9b1a3bd06a" alt="Overview" width="45%">
 </p>
 
